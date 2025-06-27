@@ -237,7 +237,7 @@ export default function Home() {
               </a>
               
               <a 
-                href="https://www.instagram.com/chaopedtunoi"
+                href="https://www.instagram.com/jaopedtuanoi/"
                 target="_blank"
                 rel="noopener noreferrer"  
                 className="group relative"
@@ -250,7 +250,7 @@ export default function Home() {
               </a>
               
               <a 
-                href="https://github.com/chaopedtunoi"
+                href="https://github.com/ChaoChaiTuNoi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative"
@@ -263,7 +263,7 @@ export default function Home() {
               </a>
               
               <a 
-                href="https://www.facebook.com/chaopedtunoi"
+                href="https://www.facebook.com/MyLittlePrincee/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative"
